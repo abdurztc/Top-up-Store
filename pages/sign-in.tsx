@@ -81,7 +81,7 @@ export default function SignIn() {
 
                 <a
                   className="btn btn-sign-up fw-medium text-lg color-palette-1 rounded-pill"
-                  href="../src/sign-up.html"
+                  href="sign-up"
                   role="button"
                 >
                   Sign Up
