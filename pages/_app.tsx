@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-props-no-spreading */
 import '../styles/utilities.css';
 import '../styles/homepage.css';
 import '../styles/detail.css';
@@ -6,6 +7,8 @@ import '../styles/complete-checkout.css';
 import '../styles/sign-in.css';
 import '../styles/sign-up.css';
 import '../styles/sign-up-photo.css';
+import '../styles/sidebar.css';
+import '../styles/overview.css';
 import type { AppProps } from 'next/app';
 import Head from 'next/head';
 
