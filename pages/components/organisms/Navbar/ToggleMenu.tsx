@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 export default function ToggleMenu() {
   return (
     <button

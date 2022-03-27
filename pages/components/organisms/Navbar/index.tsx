@@ -1,7 +1,8 @@
+/* eslint-disable linebreak-style */
 import Image from 'next/image';
 import Menu from './Menu';
 import Auth from './Auth';
-import ToggleMenu  from './ToggleMenu';
+import ToggleMenu from './ToggleMenu';
 
 export default function Navbar() {
   return (

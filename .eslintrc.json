@@ -22,7 +22,11 @@
     "rules": {
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
         "react/react-in-jsx-scope": "off",
-        "jsx-a11y/anchor-is-valid": "off"
+        "jsx-a11y/anchor-is-valid": "off",
+        "react/jsx-indent": "off",
+        "react/jsx-indent-props": "off"
+   
+        
     }
 
 }
